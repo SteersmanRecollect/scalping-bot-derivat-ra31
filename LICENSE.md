@@ -1,4 +1,4 @@
-# 
+# ultimate scalping bot for derivatives Addon | liquidation-sniping + liquidity-provision is the best scalping bot for derivatives, featuring liquidation-sniping and
 
 
 
